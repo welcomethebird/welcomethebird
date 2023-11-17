@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raj -> @welcomethebird.
-- YouTuber - CodeWithRaj ( Python, Machine Learning )
+- YouTuber - [CodeWithRaj](https://www.youtube.com/channel/UCC3i1WJluIu22GCBcv5JwqQ) ( Python, Machine Learning )
 - 👀 I’m interested in Machine Learning Open Source.
 - 🌱 I’m currently learning IBM Certified Data Science.
 - 💞️ I’m looking to collaborate on Python, Machine Learning, NLP and Couple More. 
