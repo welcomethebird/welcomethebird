@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Raj -> @welcomethebird.
-- YouTuber - [CodeWithRaj](https://www.youtube.com/channel/UCC3i1WJluIu22GCBcv5JwqQ) ( Python, Machine Learning )
-- 👀 I’m interested in Machine Learning Open Source.
-- 🌱 I’m currently learning IBM Certified Data Science.
+- 👋 Hi, I’m Rajashekar V -> @welcomethebird.
+- Core Skills ( Python, Java, Javascript, ReactJs, Machine Learning )
+- 👀 I’m interested in Software Development Open Source.
+- 🌱 CSE '23 Graduate.
 - 💞️ I’m looking to collaborate on Python, Machine Learning, NLP and Couple More. 
-- 📫 How to reach me email: welcomethebird@gmail.com
+- 📫 How to reach me email: rajraj64180@gmail.com
 
 <!---
 welcomethebird/welcomethebird is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
